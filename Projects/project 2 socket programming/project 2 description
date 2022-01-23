@@ -1,0 +1,4 @@
+2 programs are running client and server for banking system
+2 programs communicate using socket programming
+client is used in data entry of clients
+server saves the clients as objects and displays them
